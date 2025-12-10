@@ -1,0 +1,120 @@
+﻿СОДЕРЖАНИЕ
+1 ТЕКСТЫ ПРОГРАММЫ НАСТРОЙКИ ПРОЕКТА
+1.1 Текст файла данных «ProjectSettings.asset».
+1.2 Текст файла данных «InputManager.asset».
+1.3 Текст файла данных «DynamicsManager.asset».
+1.4 Текст файла данных «TagManager.asset».
+1.5 Текст файла данных «TimeManager.asset».
+1.6 Текст файла данных «QualitySettings.asset».
+1.7 Текст файла данных «GraphicsSettings.asset».
+1.8 Текст файла данных «Physics2DSettings.asset».
+1.9 Текст файла данных «AudioManager.asset».
+1.10 Текст файла данных «URPProjectSettings.asset».
+1.11 Текст файла данных «ShaderGraphSettings.asset».
+2 ТЕКСТЫ ПРОГРАММ СКРИПТОВ
+2.1 Текст программы «AudioOptimizer.cs».
+2.2 Текст программы «BatchAddComponents.cs».
+2.3 Текст программы «CombineStaticMeshesByMaterial.cs».
+2.4 Текст программы «ListingExporter.cs».
+2.5 Текст программы «ScatterStonesOnSurface.cs».
+2.6 Текст программы «TextureOptimizer.cs».
+2.7 Текст программы «VegetationBatchOptimizer.cs».
+2.8 Текст программы «VegetationPainterWindow.cs».
+2.9 Текст программы «AutoDespawn.cs».
+2.10 Текст программы «ButcherSequencer.cs».
+2.11 Текст программы «CausticsScroll.cs».
+2.12 Текст программы «CaveChunk.cs».
+2.13 Текст программы «ChunkedWorldManager.cs».
+2.14 Текст программы «ClickToStart.cs».
+2.15 Текст программы «CrewPoisonMessage.cs».
+2.16 Текст программы «DisableFishEmission.cs».
+2.17 Текст программы «FishCatcher.cs».
+2.18 Текст программы «FishData.cs».
+2.19 Текст программы «FishFreezeController.cs».
+2.20 Текст программы «FishHighlighter.cs».
+2.21 Текст программы «FishKnowledge.cs».
+2.22 Текст программы «FishSonarHighlight.cs».
+2.23 Текст программы «FishSpawner.cs».
+2.24 Текст программы «FishSpawnZone.cs».
+2.25 Текст программы «FishWiggle.cs».
+2.26 Текст программы «HarvestUIManager.cs».
+2.27 Текст программы «HarvestUIManagerMobile.cs».
+2.28 Текст программы «HintsPopupUI.cs».
+2.29 Текст программы «HintsPref.cs».
+2.30 Текст программы «HintsRuntime.cs».
+2.31 Текст программы «HintsToggleWithSave.cs».
+2.32 Текст программы «IChunkGenerator.cs».
+2.33 Текст программы «IHarvestUI.cs».
+2.34 Текст программы «LightFlicker.cs».
+2.35 Текст программы «MainMenuUI.cs».
+2.36 Текст программы «MenuIntroFade.cs».
+2.37 Текст программы «MenuMusic.cs».
+2.38 Текст программы «MobileMoveJoystick.cs».
+2.39 Текст программы «MobilePerfBootstrap.cs».
+2.40 Текст программы «MobileShaderSimplifier.cs».
+2.41 Текст программы «MobileVerticalThruster.cs».
+2.42 Текст программы «PauseMenuController.cs».
+2.43 Текст программы «PauseMenuUI.cs».
+2.44 Текст программы «PlatformDetector.cs».
+2.45 Текст программы «PlatformLayoutSwitcher.cs».
+2.46 Текст программы «PropellerBubbles.cs».
+2.47 Текст программы «PropellerRotate.cs».
+2.48 Текст программы «ScoreManager.cs».
+2.49 Текст программы «SliderHint.cs».
+2.50 Текст программы «SmoothFollow.cs».
+2.51 Текст программы «SonarRadarUI.cs».
+2.52 Текст программы «SoundPref.cs».
+2.53 Текст программы «SoundSettings.cs».
+2.54 Текст программы «SoundToggleWithSave.cs».
+2.55 Текст программы «SubmarineAudio.cs».
+2.56 Текст программы «SubmarineCollisionDamage.cs».
+2.57 Текст программы «SubmarineController.cs».
+2.58 Текст программы «SubmarineHealth.cs».
+2.59 Текст программы «SubmarineHealthUI.cs».
+2.60 Текст программы «SubmarineInvulnerabilityBlink.cs».
+2.61 Текст программы «SubmarineLightsBlinker.cs».
+2.62 Текст программы «ThirdPersonSubCam.cs».
+2.63 Текст программы «ToxicScreenEffect.cs».
+2.64 Текст программы «TutorialGatedHints.cs».
+2.65 Текст программы «TutorialHintsPC.cs».
+2.66 Текст программы «UiClickDebugger.cs».
+2.67 Текст программы «UnderwaterDistortEffect1.cs».
+2.68 Текст программы «UnderwaterFogController.cs».
+2.69 Текст программы «VolumeSettingsUI.cs».
+2.70 Текст программы «WebGLBrowserCheck.cs».
+2.71 Текст программы «WorldHeightLimiter.cs».
+2.72 Текст программы «WorldLimitZone.cs».
+2.73 Текст программы «Benchmark01.cs».
+2.74 Текст программы «Benchmark01_UGUI.cs».
+2.75 Текст программы «Benchmark02.cs».
+2.76 Текст программы «Benchmark03.cs».
+2.77 Текст программы «Benchmark04.cs».
+2.78 Текст программы «CameraController.cs».
+2.79 Текст программы «ChatController.cs».
+2.80 Текст программы «DropdownSample.cs».
+2.81 Текст программы «EnvMapAnimator.cs».
+2.82 Текст программы «ObjectSpin.cs».
+2.83 Текст программы «ShaderPropAnimator.cs».
+2.84 Текст программы «SimpleScript.cs».
+2.85 Текст программы «SkewTextExample.cs».
+2.86 Текст программы «TeleType.cs».
+2.87 Текст программы «TextConsoleSimulator.cs».
+2.88 Текст программы «TextMeshProFloatingText.cs».
+2.89 Текст программы «TextMeshSpawner.cs».
+2.90 Текст программы «TMP_DigitValidator.cs».
+2.91 Текст программы «TMP_ExampleScript_01.cs».
+2.92 Текст программы «TMP_FrameRateCounter.cs».
+2.93 Текст программы «TMP_PhoneNumberValidator.cs».
+2.94 Текст программы «TMP_TextEventCheck.cs».
+2.95 Текст программы «TMP_TextEventHandler.cs».
+2.96 Текст программы «TMP_TextInfoDebugTool.cs».
+2.97 Текст программы «TMP_TextSelector_A.cs».
+2.98 Текст программы «TMP_TextSelector_B.cs».
+2.99 Текст программы «TMP_UiFrameRateCounter.cs».
+2.100 Текст программы «TMPro_InstructionOverlay.cs».
+2.101 Текст программы «VertexColorCycler.cs».
+2.102 Текст программы «VertexJitter.cs».
+2.103 Текст программы «VertexShakeA.cs».
+2.104 Текст программы «VertexShakeB.cs».
+2.105 Текст программы «VertexZoom.cs».
+2.106 Текст программы «WarpTextExample.cs».
